@@ -1,0 +1,21 @@
+# Ghidra project files
+*.rep/
+*.gpr
+
+# JADX temp files
+*.class
+*.dex
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+*.swp
